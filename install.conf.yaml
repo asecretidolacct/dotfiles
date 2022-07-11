@@ -6,7 +6,8 @@
         
 - clean: ['~', '~/.config']
   
-- link: {}
+- link: 
+    ~/.config/git: git
   
 - shell: 
     - [git submodule update --init --recursive, Installing submodules]

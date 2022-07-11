@@ -1,3 +1,11 @@
+- defaults:
+    link:
+      relink: true
+      relative: true
+      create: true
+        
 - clean: []
+  
 - link: {}
+  
 - shell: []

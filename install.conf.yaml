@@ -4,7 +4,7 @@
       relative: true
       create: true
         
-- clean: []
+- clean: ['~', '~/.config']
   
 - link: {}
   

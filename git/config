@@ -1,4 +1,5 @@
 [color]
+    excludesFile = ~/.config/git/ignore
     ui = auto
 
 [color "branch"]
